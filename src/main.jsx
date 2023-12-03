@@ -21,7 +21,7 @@ import Contact from './pages/Contact.jsx'
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "https://read-write-delete.netlify.app/",
     element: <App />,
     children: [
         {
